@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AC\\source\\repos\\Project8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{890AF3F6-6C12-48EB-8DAE-D38C615945CC}|Project8\\Project8.vcxproj|C:\\Users\\AC\\source\\repos\\Project8\\Project8\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{890AF3F6-6C12-48EB-8DAE-D38C615945CC}|Project8\\Project8.vcxproj|solutionrelative:Project8\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kaynak.cpp",
+              "DocumentMoniker": "C:\\Users\\AC\\source\\repos\\Project8\\Project8\\Kaynak.cpp",
+              "RelativeDocumentMoniker": "Project8\\Kaynak.cpp",
+              "ToolTip": "C:\\Users\\AC\\source\\repos\\Project8\\Project8\\Kaynak.cpp",
+              "RelativeToolTip": "Project8\\Kaynak.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAtwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-11T15:35:10.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

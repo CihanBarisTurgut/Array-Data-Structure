@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (Project8.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Kaynak.cpp
+C:\Users\AC\source\repos\Project8\Project8\Kaynak.cpp(390,16): warning C4101: 'minindex': yerel değişken başvurusu kaldırıldı
+C:\Users\AC\source\repos\Project8\Project8\Kaynak.cpp(228,1): warning C4715: 'arrayADT::SumRecursive': tüm denetim yolları değer döndürmez
+  Project8.vcxproj -> C:\Users\AC\source\repos\Project8\x64\Debug\ArrayADT.exe
